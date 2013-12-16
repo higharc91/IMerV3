@@ -4,7 +4,7 @@ import threading, platform
 import GUIClient
  
 def first ():
-    title = ("Welcome to IMer V0.1")
+    title = ("Welcome to IMer V3.0")
     print(title.center(21,))
     print("----------------------")
     password = str(raw_input("Please Enter The password for encryption -> "))
